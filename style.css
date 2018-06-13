@@ -44,6 +44,7 @@ header.startup hr {
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Roboto Slab', serif;
+  position: absolute;
 }
 .btn-xl {
   padding: 1rem 2rem;
